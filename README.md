@@ -14,15 +14,18 @@ Uma ferramenta para você fazer debug, editar e recompilar assemblies, mesmo que
 
 Veja o vídeo tutorial que eu fiz para você:
 
-## Vídeo
-Aqui fica o vídeo
+## Vídeo Tutorial
+[![Tutorial do dnSpy](https://img.youtube.com/vi/gW7yPHd0StQ/0.jpg)](https://goo.gl/8Na45J)
 
 ## Links
-Aqui fica os links
-Wiki https://github.com/0xd4d/dnSpy/wiki
-GitHub https://github.com/0xd4d/dnSpy
-Releases https://github.com/0xd4d/dnSpy/releases
+- Wiki
+  - https://github.com/0xd4d/dnSpy/wiki
 
+- GitHub
+  - https://github.com/0xd4d/dnSpy
+
+- Releases 
+  - https://github.com/0xd4d/dnSpy/releases
 
 ## Funcionalidades
 - Debug .NET Framework, .NET Core e Unity Game assemblies, sem necessidade do código fonte.
